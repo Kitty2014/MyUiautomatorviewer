@@ -1,0 +1,2 @@
+# MyUiautomatorviewer
+*针对安卓自带的uiautomatorView二次开发
